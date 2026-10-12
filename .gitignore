@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+# Secrets and personal data never go in git
+.env
+data/private/
+.autoapply/
+# Downloaded datasets (re-download with the Kaggle CLI)
+data/raw/
