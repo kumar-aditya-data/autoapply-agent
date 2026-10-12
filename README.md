@@ -166,7 +166,7 @@ To switch to Claude, set `AUTOAPPLY_MODEL=claude-opus-5-5` and add an API key. N
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/autoapply-agent.git
+git clone https://github.com/3012-pixel/autoapply-agent.git
 cd autoapply-agent
 python -m venv .venv
 .venv\Scripts\activate          # macOS/Linux: source .venv/bin/activate
